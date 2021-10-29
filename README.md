@@ -24,6 +24,7 @@
 - accéder et modifier le DOM (document.getElementID(...) etc.)
 - événements (onclick etc., ou addEventListener(..) )
 - capturing et bubbling
+- programmation fonctionnelle (map, filter, etc.)
 - manipulation de chaînes de caractères (split, join etc.)
 - classes, méthodes, propriétés
 - différence entre var, let, const
