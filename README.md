@@ -17,6 +17,8 @@
 - par tag (div, span etc.)
 - classes .boite, etc.
 - id #menu etc.
+- transitions
+- animations
 
 
 ## Javascript
